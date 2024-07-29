@@ -4,11 +4,17 @@ O repositório inclui o projeto realizado em sala, que tem como objetivo a apren
 
 ## Métodos PHP
 
+* `include_once` A declaração include_once inclui e avalia o arquivo informado durante a execução do script. Este é um comportamento similar a declaração include, com a única diferença que, se o código do arquivo já foi incluído, não o fará novamente, e o include_once retornará true. Como o nome sugere, o arquivo será incluído somente uma vez.
+
+* `mysqli_query` Executa uma busca no banco de dados, como, por exemplo, na página de cadastro de produtos, onde ele realiza a busca do item descrição das tabelas categoria e marca.
+
+* `mysqli_fetc_assoc` Obtém uma linha de dados do conjunto de resultados e retorna-o como um array associativo. Cada chamada subsequente desta função retornará a linha seguinte do conjunto de resultados, ou null se não houver mais linhas.
+
 ## Funcionalidades
 
 ### Carrinho de compras:
 
-Nessa aba o cliente poderá ver os itens adicionado ao carrinho e então, caso seja de seu desejo, alterar o nnúmero de itens ou excluí-lo.
+Nessa aba o cliente poderá ver os itens adicionado ao carrinho e então, caso seja de seu desejo, alterar o número de itens ou excluí-lo.
 
 ### Gerenciamento de produtos, marcas e categorias:
 
