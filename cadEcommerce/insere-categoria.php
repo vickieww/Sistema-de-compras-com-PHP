@@ -1,6 +1,6 @@
 <?php 
 include('controller/conexao.php');
-$descricao = $_POST('descricao');
+$descricao = $_POST['descricao'];
 echo "<h3>Descrição: $descricao </h3>";
 $cad_categoria = "INSERT INTO categoria(DESCRICAO) VALUES ('$descricao')";
 
