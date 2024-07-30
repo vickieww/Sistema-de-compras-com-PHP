@@ -8,7 +8,7 @@ O repositório inclui o projeto realizado em sala, que tem como objetivo a apren
 
 * `mysqli_query` Executa uma busca no banco de dados, como, por exemplo, na página de cadastro de produtos, onde ele realiza a busca do item descrição das tabelas categoria e marca.
 
-* `mysqli_fetc_assoc` Obtém uma linha de dados do conjunto de resultados e retorna-o como um array associativo. Cada chamada subsequente desta função retornará a linha seguinte do conjunto de resultados, ou null se não houver mais linhas.
+* `mysqli_fetch_assoc` Obtém uma linha de dados do conjunto de resultados e retorna-o como um array associativo. Cada chamada subsequente desta função retornará a linha seguinte do conjunto de resultados, ou null se não houver mais linhas.
 
 ## Funcionalidades
 
