@@ -28,7 +28,13 @@ Para gerenciar o estoque e garantir que os clientes não ficarão sem produtos p
 
 ![gif](imgs/cadCategoria.gif) 
 
-pela tela de `cadastro de marcas` onde será realizada a inserção da marca daquele produto; e finalmente a aba `cadastro de produtos` que fica responsável por inserir os dados mais abrangentes do item, como nome, preço e descrição. Nessa aba você pode cadastrar determinado produto no banco de dados e atualizar o estoque da loja.
+pela tela de `cadastro de marcas` onde será realizada a inserção da marca daquele produto;
+
+![gif](imgs/cadMarca.gif) 
+
+e finalmente a aba `cadastro de produtos` que fica responsável por inserir os dados mais abrangentes do item, como nome, preço e descrição. Nessa aba você pode cadastrar determinado produto no banco de dados e atualizar o estoque da loja.
+
+![gif](imgs/cadProd.gif) 
 
 ## Ferramentas utilizadas
 
