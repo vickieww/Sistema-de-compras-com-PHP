@@ -22,7 +22,7 @@ Com o intuito de auxiliar na construção do MVP exigido pelo projeto de TCC do 
 
 Nessa aba o cliente poderá ver os itens adicionado ao carrinho e então, caso seja de seu desejo, alterar o número de itens ou excluí-lo.
 
-![gif](imgs/carrinho_1.gif) 
+![gif](imgs/carrinho.gif) 
 
 ### Gerenciamento de produtos, marcas e categorias:
 
